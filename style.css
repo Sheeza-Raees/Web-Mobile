@@ -1,0 +1,152 @@
+html, body{
+   
+    margin: 0 ;
+    padding: 0;
+    background-color: #f7f8fa;
+}
+
+
+.fa{
+    color: white;
+}
+ 
+.blue{
+    background-color: #316dc3;
+    color: white;
+}
+.part2{
+    background-color: #f7f8fa;
+    position:sticky;
+    top:0;
+}
+.red:hover{
+    color: white;
+    background-color:#2f6fc9;
+    border-radius: 20px 20px 20px 20px;
+}
+.red{
+    color: black;
+}
+ .blu{
+    background-color: #2f6fc9;
+    color: white;
+    border: none;
+}
+.carousel img{
+    
+    min-height: 200px;
+    max-height: 480px;
+}
+.news{
+    background-color: #316dc3;
+    color:white;
+}
+.news span{
+    color:rgb(39, 235, 39);
+}
+ .para{
+    line-height: 1.7em;
+    word-spacing: 0em;
+    letter-spacing: 0.05em;
+    font-family: Arial Narrow, sans-serif;
+    font-size:15px;
+  
+}
+/** Counter Properties **/
+.counter
+{
+    background-color:#316dc3;
+    text-align: center;
+}
+.employees,.customer,.design,.order
+{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.counter-count
+{
+    font-size: 28px;
+    border: none;
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    line-height: 92px;
+    width: 100px;
+    height: 92px;
+    display: inline-block;
+    font-family:Apple Chancery, cursive;
+}
+
+.employee-p,.customer-p,.order-p,.design-p
+{
+    font-size: 20px;
+    color:white;
+    line-height: 30px;
+    
+}
+.lol{
+    height:400px;
+}
+.lol marquee {
+    padding-bottom: 4px;
+    height:270px;
+    color:gray;
+}
+
+.tar{
+    height: 150px;
+    width: 190px;
+    
+}
+.pop{
+    height:500px;
+}
+
+.bot{ 
+    border-radius: 50%;
+    background-color: #265ba5;
+    
+}
+.text{
+    font-size: 14px;
+}
+@media (max-width: @screen-md-max) {
+    .container {
+        padding: 0;
+        overflow-x: hidden;
+    }
+}
+.bottom {
+    background-color:#25272e ;
+}
+.down{
+    background-color: #316dd9;
+}
+
+.end img
+{    position: fixed;
+    bottom:0px;
+    right:70px;
+    border: white;
+    background-color: transparent;
+}
+
+}
+.one{
+    background-color: #f7f8fa;
+}
+.two{
+    background-color: #f7f8fa;
+}
+.heading{
+    color: #316dc3;
+}
+.heading span{
+    color:#487d08;
+}
+.three{
+    background-color: hsl(222, 50%, 96%);
+}
+.four{
+    color: gray;
+}
